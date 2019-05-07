@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/StatkiZasoby">
+        <file>tlo.jpg</file>
+        <file>woda_tlo.jpg</file>
+        <file>woda.png</file>
+        <file>pudlo.png</file>
+        <file>miss.mp3</file>
+        <file>hit.mp3</file>
+        <file>nosound.png</file>
+        <file>sound.png</file>
+        <file>menu.png</file>
+        <file>statek.png</file>
+        <file>trafiony.png</file>
+    </qresource>
+</RCC>
